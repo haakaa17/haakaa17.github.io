@@ -1,2 +1,8 @@
 # Tony Stark
 Anthony Edward "Tony" Stark was a billionaire industrialist, a founding member of the Avengers, and the former CEO of Stark Industries. A brash but brilliant inventor, Stark was self-described as a genius, billionaire, playboy, and philanthropist.
+## Character Traits
+* genius
+* billionaire
+* playboy
+* philanthropist
+* narcissistic
